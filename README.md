@@ -8,12 +8,12 @@
 * Check outdated members from facebook group
 
 ## Introduction
-Here are the tools to help with human resources management that you can download and use on Google Colab*
+Here are the tools to help with human resources management that you can download and use on **Google Colab**
 
-*Note: To run them on your local Jupyter Notebook, you will need to make adjustments in code*
+*Note: To run them on your local **Jupyter Notebook**, you will need to make adjustments in code*
 
 ## Convert name and student code to mail (FPT Mail)
-* Here, you will enter the link to your Google Sheet spreadsheet and the name of the worksheet (where the data to be transferred is located). Afterward, the tool will help you add an email column
+* Here, you will enter the link to your Google Sheet spreadsheet and the name of the worksheet (where the data to be transferred is located). Afterward, the tool will help you add an email column.
 *Original*
 *After editing*
 ## Warning absent members
