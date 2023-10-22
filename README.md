@@ -20,6 +20,7 @@ Here are the tools to help with human resources management that you can download
 <p align="center">
 // Original
 </p>
+
 ![image](https://github.com/Miutioga/tools-for-hr-management/assets/101622771/4c3649ab-8a40-4ae2-b882-f6f30865e2cb)
 
 *After editing*
