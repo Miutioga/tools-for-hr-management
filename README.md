@@ -1,4 +1,4 @@
-# Welcome to tools for HR Management
+#Tools for HR Management
 
 ## You will find in this repo:
 
@@ -6,5 +6,9 @@
 * Check warning members with low activities
 * Update new informations
 * Check outdated members from facebook group
+
+## Introduction
+Here are the tools to help with human resources management that you can download and use on Google Colab
+### Note: To run them on your local Jupyter Notebook, you will need to make adjustments
 
 ### facebook.com/FelineorcaSolituna/
