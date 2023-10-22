@@ -14,6 +14,7 @@ Here are the tools to help with human resources management that you can download
 
 ## Convert name and student code to mail (FPT Mail)
 * Here, you will enter the link to your Google Sheet spreadsheet and the name of the worksheet (where the data to be transferred is located). Afterward, the tool will help you add an email column.
+  *Note: You have log in account to access to your Google Sheet or you can edit code to use your CSV file*
   
 *Original*
 ![image](https://github.com/Miutioga/tools-for-hr-management/assets/101622771/4c3649ab-8a40-4ae2-b882-f6f30865e2cb)
