@@ -9,7 +9,6 @@
 
 ## Introduction
 Here are the tools to help with human resources management that you can download and use on Google Colab
-
-*con trai*
+*To run them on your local Jupyter Notebook, you will need to make adjustments*
 
 ### facebook.com/FelineorcaSolituna/
