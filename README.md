@@ -48,7 +48,7 @@ Here are the tools to help with human resources management that you can download
 
 <p align="center">
   <i>Download CSV file here</i>
-  <![image](https://github.com/Miutioga/tools-for-hr-management/assets/101622771/7ce26319-79a3-466e-9ba8-278320fc89f0)<br/>
+  <![image](https://github.com/Miutioga/tools-for-hr-management/assets/101622771/7ce26319-79a3-466e-9ba8-278320fc89f0)>
 </p> 
 
 ![image](https://github.com/Miutioga/tools-for-hr-management/assets/101622771/7ce26319-79a3-466e-9ba8-278320fc89f0)
