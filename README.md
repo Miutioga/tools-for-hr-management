@@ -4,6 +4,6 @@
 
 * Tool to convert from name and student to mail (FPT ver)
 * Check warning member with low activities
-* 
+* Update new informations
 
 ### facebook.com/FelineorcaSolituna/
