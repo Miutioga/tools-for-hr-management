@@ -12,4 +12,9 @@ Here are the tools to help with human resources management that you can download
 
 *Note: To run them on your local Jupyter Notebook, you will need to make adjustments in code*
 
+## Convert name and student code to mail (FPT Mail)
+## Warning absent members
+## Update members' information
+## Check old members from facebook's group
+
 ### facebook.com/FelineorcaSolituna/
