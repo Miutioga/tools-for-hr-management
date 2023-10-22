@@ -40,9 +40,19 @@ Here are the tools to help with human resources management that you can download
 
 ![image](https://github.com/Miutioga/tools-for-hr-management/assets/101622771/3af29cd6-0a6e-4471-bc68-1c477553a8c5)
 
-* Enter the indices of the 'vắng' columns. In this example, 'Warning members' are those absent in quarters 3 and 4. Here, you can add more conditions or 'absent' instead of 'vắng' or any other column-condition's name you prefer, depending on your choice.
+* Enter the indices of the 'vắng' columns. In this example, 'Warning members' are those absent in quarters 3 and 4. Here, you can add more conditions or 'absent' instead of 'vắng' or any other column-condition's name you prefer, depending on your choice. It will output a dataframe consisting of warning members.
 
 ![image](https://github.com/Miutioga/tools-for-hr-management/assets/101622771/42cc0946-d3d1-4c63-b102-00451eb7dff0)
+
+* You can export it to a CSV file if you wish
+
+<p align="center">
+  <i>Download CSV file here</i>
+</p> 
+
+![image](https://github.com/Miutioga/tools-for-hr-management/assets/101622771/7ce26319-79a3-466e-9ba8-278320fc89f0)
+
+*Note: Remember to refresh*.
 
 ## Update members' information
 ## Check old members from facebook's group
