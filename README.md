@@ -56,5 +56,3 @@ Here are the tools to help with human resources management that you can download
 
 ## Update members' information
 ## Check old members from facebook's group
-
-### facebook.com/FelineorcaSolituna/
